@@ -8,3 +8,4 @@
 ghalibansari/ghalibansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/ghalib_ansari_"><img src="https://api.daily.dev/devcards/6370e142cd67424cb8ec8cc2975f2d63.png?r=d7f" width="400" alt="Md Ghalib Nizamuddin Ansari's Dev Card"/></a>
